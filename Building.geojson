@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "Building",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "Building": "Davis Library" }, "geometry": { "type": "Point", "coordinates": [ -79.047895237207015, 35.910949318172285 ] } },
+{ "type": "Feature", "properties": { "id": 2, "Building": "Wilson Library" }, "geometry": { "type": "Point", "coordinates": [ -79.049704295244709, 35.909441314362567 ] } },
+{ "type": "Feature", "properties": { "id": 3, "Building": "UL Library" }, "geometry": { "type": "Point", "coordinates": [ -79.049057259888158, 35.909730083274432 ] } }
+]
+}
